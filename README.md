@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @JoaoRicard
+- 👀 I’m interested in learn all about back-end
+- 🌱 I’m currently waiting for my release to learn Javascript 
+- 💞️ I’m looking to collaborate on all kinds of information that involves technology. 
+- 📫 How to reach me ... joao.ricardox@gmail.com 
