@@ -9,6 +9,7 @@
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=JoaoRicard&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
+
 </p>
 
 <div align="center"> 
@@ -25,8 +26,8 @@
 ![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
 
 ### Studying in this moment:
-![Java](https://img.shields.io/badge/-Java-0D1117?style=for-the-badge&logo=java&labelColor=0D1117)&nbsp;
-
+![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white&labelColor=0D1117)
+  
 <div align="center">
 <br><p align="center"><b>Visitors Count</b></p>
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{JoaoRicard}/count.svg" /></p> 
